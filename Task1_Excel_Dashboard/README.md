@@ -1,0 +1,11 @@
+# Task 1 - Excel Sales Dashboard
+
+Created an interactive dashboard using Excel.
+
+Features:
+- Total Sales
+- Profit by Category
+- Sales Trends
+- Pivot Tables
+- Charts
+- Conditional Formatting
